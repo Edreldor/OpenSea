@@ -2,7 +2,7 @@
 A simple python wrapper for the OpenSea API
 
 ## Usage
-'''python
+```python
 opensea = OpenSea(network='mainnet', api_key='YOUR API KEY HERE')
 
 ## Github
